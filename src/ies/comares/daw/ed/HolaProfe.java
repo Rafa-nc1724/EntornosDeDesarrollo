@@ -9,6 +9,7 @@ public class HolaProfe {
 		System.out.println("Im fine thanks jeje this is really ");
 		System.out.println("Buenas, soy Manolo. Ahora debéis obtener los cambios desde Eclipse. No olividéis documentarlo con capturas de pantalla ");
 		System.out.println("los diozes zon byRuben ftRafa");
+		System.out.println("El Hotel Maligno-LOZ DIOZES");
 	}
 
 }
