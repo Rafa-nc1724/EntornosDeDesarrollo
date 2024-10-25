@@ -10,7 +10,15 @@ public class HolaProfe {
 		System.out.println("Buenas, soy Manolo. Ahora debéis obtener los cambios desde Eclipse. No olividéis documentarlo con capturas de pantalla ");
 		System.out.println("los diozes zon byRuben ftRafa");
 		System.out.println("El Hotel Maligno-LOZ DIOZES");
+<<<<<<< HEAD
 		System.out.println("Mi primo y yo no queremos hacer un 2pa2 ");
 	}
+=======
+>>>>>>> branch 'master' of git@github.com:Rafa-nc1724/EntornosDeDesarrollo.git
 
+		System.out.println("Hacemos un doh pa dooooooh mi primo y yo ");
+
+		System.out.println("Mi primo y yo no queremos hacer un 2pa2");
+
+	}
 }
