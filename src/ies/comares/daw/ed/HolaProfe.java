@@ -14,7 +14,7 @@ public class HolaProfe {
 		System.out.println("Hacemos un doh pa dooooooh mi primo y yo ");
 		System.out.println("Mi primo y yo no queremos hacer un 2pa2");
 		
-		System.out.println("a rafa le gusta messi");
+		System.out.println("a rafa le gusta messi ");
 
 	}
 }
