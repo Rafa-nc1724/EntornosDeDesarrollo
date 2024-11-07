@@ -22,9 +22,10 @@ public class HolaProfe {
 		System.out.println("a rafa le gusta messi ");
 		System.out.println("holi panoli");
 		System.out.println("Hola juanola");
-		
 		for(int i =0;i<10;i++) {
 			System.out.println("Hola compañero esta es la vuelta número "+ i);
+			int a=10, b=9;
+			i=a-b;
 		}
 	}
 }
